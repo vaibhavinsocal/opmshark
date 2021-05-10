@@ -1,7 +1,6 @@
-### Hi there 👋
+### Namaste, I am Vaibhav Verma
 
-<!--
-**opmshark/opmshark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(rocket) Proven requirement engineer with 6 years of experience 👋
 
 Here are some ideas to get you started:
 
